@@ -1,0 +1,27 @@
+  td,th 
+{
+    border: 1 solid white;
+    border-collapse: collapse;
+    font-family: Helvetica;
+    width:200px;
+    padding: 15px;
+}
+#gray{
+    background-color:rgb(208, 201, 211);
+    text-align: left;
+}
+#violet{
+    background-color:rgb(211, 155, 233);
+}
+#yellow{
+    background-color:rgb(219, 196, 119);
+}
+#orange{
+    background-color:lightcoral;
+}
+#green{
+    background-color:rgb(139, 235, 203);
+}
+#purple{
+    background-color:rgb(128, 112, 141);
+}

@@ -1,0 +1,21 @@
+.peru{
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    background-color: peru;
+    display: inherit;
+}
+.turquoise{
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    background-color: turquoise;
+    display: none;
+}
+.yellow{
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    background-color: yellow;
+    display: none;
+}

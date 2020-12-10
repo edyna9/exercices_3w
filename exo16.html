@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exercice </title>
+</head>
+
+<body>
+    <fieldset>
+        <legend> Votre identité </legend>
+        <ol>
+            <li>
+                <label for="name_id">Nom :</label>
+                <input type="text" id="name_id" value="Prénom et nom">
+            </li>
+
+            <li>
+                <label for="email">Email :</label>
+                <input type="text" id="email" value="exemple@domaine.com">
+            </li>
+
+            <li><label for="phonenumber">Téléphone :</label>
+                <input type="text" id="name_id" value="Pax ex : +33755000000">
+            </li>
+        </ol>
+    </fieldset>
+
+    <fieldset>
+        <legend> Adresse de livraison </legend>
+        <ol>
+            <li>Adresse
+                <textarea name="textarea" rows="7" cols="15"> </textarea>
+
+            <li><label for="postal">Code postal</label>
+                <input type="number" id="postal"></li>
+
+            <li><label for="country">Pays</label>
+                <input type="text" id="country"></li>
+        </ol>
+    </fieldset>
+    <fieldset>
+        <legend> Informations CB </legend>
+        <ol>
+            <li>
+               <fieldset>
+                   <legend>Type de carte bancaire</legend>
+                        <ol>
+                            <li>
+                                <input type="radio" id="contactChoice1" name="contact " value="email ">
+                                <label for="contactChoice1 ">VISA</label>
+                            </li>
+                            <li>
+                                <input type="radio" id="contactChoice1" name="contact " value="email ">
+                                <label for="contactChoice1 ">AMEX</label>
+                            </li>
+                            <li>
+                                <input type="radio" id="contactChoice1" name="contact " value="email ">
+                                <label for="contactChoice1 ">MASTERCARD</label>
+                            </li>
+                        </ol>
+               </fieldset>     
+            </li>
+            <li>
+                <label for="card">N° de carte </label>
+                <input type="text" id="card">
+            </li>
+            <li>
+                <label for="code">Code de sécurité </label>
+                <input type="text" id="code">
+            </li>
+            <li>
+                <label for="name_card">Nom du porteur</label>
+                <input type="text" id="name_card" value="Par ex : Même nom que sur la carte"> 
+            </li>
+
+        </ol>
+    </fieldset>
+
+    <fieldset>
+        <input type="button" value="j'achète">
+    </fieldset>
+</body>
+
+</html>

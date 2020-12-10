@@ -1,0 +1,8 @@
+.test{
+    width : 200px; 
+    height : 200px;
+    border: 2px dotted black;
+    background: url(../images/aloe.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
