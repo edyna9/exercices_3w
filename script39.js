@@ -18,7 +18,6 @@ function goodbye(texteId){
     bodyBody.removeChild(ghostText)
 }
 
-
 //creation H1
 bodyBody = document.getElementById("body1")
 let new_titreH1 = document.createElement("h1");

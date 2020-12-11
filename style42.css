@@ -1,0 +1,43 @@
+#blue{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-around;
+    background-color: deepskyblue;
+    width: 1000px ;
+    height: 700px;
+}
+#pink{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-around;
+    background-color: hotpink;
+    width: 900px;
+    height: 200px;
+}
+#green{
+    background-color: lightgreen;
+    width: 900px;
+    height: 200px;
+}
+#orange{
+    background-color: peru;
+    width: 100px;
+    height: 100px;
+}
+#red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+#orange2{
+    background-color: peru;
+    width: 100px;
+    height: 100px;
+}
+#red2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}

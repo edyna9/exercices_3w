@@ -1,0 +1,15 @@
+li{
+    list-style: none;
+}
+div{
+    background-color: black;
+    color:white;
+    height: 40px;
+    width: 1200px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}

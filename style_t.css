@@ -10,6 +10,24 @@ width: 100px;
 height: 100px;
 border: 1px solid black;
 }
+.blue{
+    color: deepskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+}
+.rose{
+    color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+
+/*
+
+
 
 
 .blue{
@@ -20,22 +38,10 @@ border: 1px solid black;
 }
 
 
-}
 
 
-/*
 
-.blue{
-    color: deepskyblue;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-}
-.rose{
-    color: hotpink;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
 
-    
 .blue{
     background-color: deepskyblue;
 }
