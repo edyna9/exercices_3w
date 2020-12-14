@@ -2,19 +2,25 @@ li{
     list-style: none;
     margin-bottom: 0px;
 }
-div{
+.div1{
     background-color: black;
     color:white;
     height: 45px;
     width: 1200px;
 }
-ul{
+ul {
+    height: auto;
+    list-style: none;
+    background-color: black;
+    color: white;
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
-    padding: 10px;
+    align-items: center;
 }
 p{
     font-style: italic;
     margin-top: 0px;
 }
+i {
+    font-size: 35px; 
+   }

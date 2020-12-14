@@ -1,0 +1,77 @@
+#invisible1{
+    width: 1100px;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.black{
+    background-color: black;
+    width: 1050px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue{
+    background-color:rgb(105, 178, 238);
+    width: 1000px;
+    height: 200px;
+}
+
+#blackCenter{
+    background-color: black;
+    width: 1050px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content:space-around;
+}
+
+.violet{
+    background-color: rgb(160, 128, 185);
+    width: 200px;
+    height: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
+} 
+
+#pink{
+    background-color: pink;
+    width: 540px;
+    height: 600px;
+    padding-left: 10px;
+}
+
+ul{
+    list-style: none;
+}
+h1, h2, h3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
+li{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+}
